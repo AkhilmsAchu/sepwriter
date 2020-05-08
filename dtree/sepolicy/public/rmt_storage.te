@@ -1,2 +1,0 @@
-allow rmt_storage block_device:blk_file { read };
-allow rmt_storage sysfs:file { getattr };
